@@ -36,11 +36,6 @@ Credit by linking back to [davidcobbina.com](http://davidcobbina.com).
 
 ![Screenshot](assets/screenshots/8.jpg)
 
-![Screenshot](assets/screenshots/9.jpg)
-
-![Screenshot](assets/screenshots/10.jpg)
-
-![Screenshot](assets/screenshots/11.jpg)
 
 
 
